@@ -1,0 +1,4 @@
+com.harshbhavsar.flutter_ui_collections
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
